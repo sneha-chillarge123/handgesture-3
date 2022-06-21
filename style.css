@@ -1,0 +1,40 @@
+body{
+    background-image: url("background.jpg");
+    background-size: cover;
+}
+
+#text1{
+    font-family: 'Amatic SC', cursive;
+  font-size: 40px;
+  font-weight: bolder;
+}
+
+#heading{
+    background-color:lavenderblush;
+    height: 100px;
+    width: 250px;
+    border-radius: 20px;
+  }
+
+  #camera , #result
+{
+  border: 2px double black;
+  width: 350px;
+  height: 300px; 
+  
+}
+
+#text2{
+    font-family: 'Indie Flower', cursive;
+     
+    font-weight: bolder;
+  }
+
+  #prediction{
+      background-color: rgb(253, 196, 225);
+      border-radius: 30px;
+      border-top: 10px;
+      border-bottom: 10px;
+      border-left: 10px;
+      border-right: 10px;
+  }
